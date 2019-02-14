@@ -20,5 +20,5 @@ ionic serve
 ```
 ***OR***
 ```
-ionic cordova run ios / android
+ionic cordova run ios / android --livereload
 ```
